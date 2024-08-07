@@ -26,5 +26,3 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,chatanywhere.cn
-# IP段匹配
-IP-CIDR,10.10.10.0/16
